@@ -1,7 +1,7 @@
 {
   "name": "@theyahia/neshan-maps-mcp",
-  "version": "1.0.0",
-  "description": "MCP server for Neshan Maps API (Iran)",
+  "version": "1.0.1",
+  "description": "MCP server for Neshan Maps — geocoding, routing, search (Iran)",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
@@ -45,7 +45,9 @@
     "iran-api",
     "maps",
     "geocoding",
-    "typescript"
+    "typescript",
+    "neshan-maps",
+    "api"
   ],
   "license": "MIT",
   "repository": {
